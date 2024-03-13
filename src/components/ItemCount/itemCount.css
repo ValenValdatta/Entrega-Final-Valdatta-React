@@ -1,0 +1,14 @@
+.ecommerce__itemcount {
+   text-align: center;
+
+}
+
+.ecommerce__itemcount button {
+    padding: 0.5rem 1rem;
+    margin: 0.2rem;
+    
+    border-radius: 5px;
+
+    background-color: black;
+    color: orange;
+}

@@ -1,0 +1,40 @@
+
+
+.ecommerce__navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+    padding: 0.1rem 2rem;
+    margin-bottom: 0;
+
+    background-color: black;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+.ecommerce__navbar-logo h1 {
+    color: orange;
+    text-decoration: none;
+}
+
+.ecommerce__navbar-links {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    padding-top: 1rem;
+    margin-left: 2rem;
+}
+
+.ecommerce__navbar-links a {
+    display: flex;
+    margin: 0.5rem;
+
+    text-decoration: none;
+    color: orange;
+}
+
+.ecommerce__navbar-cart {
+    display: flex;
+    align-items: center;
+
+}

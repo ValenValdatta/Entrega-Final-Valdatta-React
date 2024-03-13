@@ -1,0 +1,18 @@
+.cart__widget-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.cart__widget-container p {
+    font-size: 16px;
+    line-height: 30px;
+    padding-top: 1rem;
+    
+    color: orange;
+}
+
+
+
+
