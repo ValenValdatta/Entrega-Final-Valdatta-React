@@ -19,3 +19,19 @@
     width: 100px;
     mix-blend-mode: multiply;
 }
+
+.ecommerce__item-detail footer div {
+    padding: 1rem 
+}
+
+.ecommerce__item-detail-links {
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    
+}
+
+.ecommerce__item-detail-links h4 {
+    
+    margin: 0.5rem;
+}

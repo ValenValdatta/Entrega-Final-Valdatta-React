@@ -23,7 +23,7 @@ const products = [
       price: 150000,
       category: "mother",
       img: "https://http2.mlstatic.com/D_NQ_NP_2X_657722-MLU70065298721_062023-F.webp",
-      stock: 0,
+      stock: 10,
       description: "Descripcion de Mother",
    },
 ];
