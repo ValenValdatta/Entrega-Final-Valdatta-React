@@ -23,7 +23,6 @@ const Checkout = () => {
     
             const batch = writeBatch(db)
             const outOfStock = []
-    
             const ids = cart.map(prod => prod.id)
     
             const productsCollection = query(collection(db, "products"), where(documentId(), "in", ids ))
